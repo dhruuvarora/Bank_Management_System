@@ -18,8 +18,11 @@ Perform account creation, deposit, withdrawal, balance inquiry and other transac
 
 # Sample file
 main.cpp: Contains the content of the program.
+
 file_handling.h: header file of file handling.
+
 customer.h: Header file that defines the customer account model.
+
 Transaction.h: header file that defines transactions related to transactions.
 
 # Future improvements
